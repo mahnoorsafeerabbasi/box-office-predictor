@@ -19,8 +19,8 @@ app.py: Main Flask application file.
 templates/: Folder containing HTML templates:|
                                              |
                                              |
------------------------------------------------------|index.html: Home page template.
------------------------------------------------------| result.html: Search results template.
+-|index.html: Home page template.
+-| result.html: Search results template.
 
 **## How to Run**
 Navigate to the project directory and open cmd:
