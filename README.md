@@ -15,12 +15,12 @@ To use the BoxOffice API, you need an OMDb API key. Obtain your free key from [O
 
 ****Project Structure****
 create a folder which should look like this.and open full folder in you VS CODE or other.
-app.py: Main Flask application file.                     
+*app.py: Main Flask application file.                     
 templates/: Folder containing HTML templates:
-                                         -----|index.html: Home page template.
-                                         -----| result.html: Search results template.
+                                           -----|index.html: Home page template.
+                                           -----| result.html: Search results template.*
 
-**How to Run**
+***How to Run***
 Navigate to the project directory and open cmd:
 
 cd box-office-prognosticator
